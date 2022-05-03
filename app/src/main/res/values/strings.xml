@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginFirebaseClass</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="emailView">Email</string>
+    <string name="proveedor">Proveedor</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="background">background_login</string>
+    <string name="message">message</string>
+</resources>
